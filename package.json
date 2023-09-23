@@ -1,0 +1,28 @@
+{
+  "name": "grape",
+  "version": "1.0.0",
+  "description": "Project as Grape- Save Tweets (Threas) to Notion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edleron/Grape.git"
+  },
+  "keywords": [
+    "#save",
+    "#tweets",
+    "#threads",
+    "#notion"
+  ],
+  "author": "Edleron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edleron/Grape/issues"
+  },
+  "homepage": "https://github.com/Edleron/Grape#readme",
+  "dependencies": {
+    "twitter-api-v2": "^1.15.1"
+  }
+}
